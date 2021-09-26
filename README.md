@@ -13,7 +13,7 @@ python3 "GAN.py" --ratiox 0.1 --l_gamma 0.55 --u_gamma 0.99 --proto_param1 0 --p
 ## Ciation
 
 ```
-@inproceedings{Ramazi2021co,
+@inproceedings{Ramazi,
   title={Ranking Synthetic Features for Generative Zero-Shot Learning},
   author={Ramazi, Shayan and Nadian, Ali},
   booktitle={International Computer Conference, Computer Society of Iran (CSICC)},
